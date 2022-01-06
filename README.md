@@ -1,6 +1,6 @@
 ### Olá! Sou o Pedro Henrique
 
-- 🔭 Atualmente estudando Algotitimos e Lógica da Programação
+- 🔭 Atualmente estudando Algoritimos e Lógica da Programação
 - 🙌 Pretendo trabalhar como FrontEnd
 - (☞ﾟヮﾟ)☞ Quero me aprofundar em Javascript
 - 😄 Pronomes: Ele/Dele
