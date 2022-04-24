@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudando Algoritimos e Lógica da Programação
 - 🙌 Pretendo trabalhar como FrontEnd
-- (☞ﾟヮﾟ)☞ Quero me aprofundar em Javascript
+- (☞ﾟヮﾟ)☞ Estudando JS, CSS e HTML
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato interessante: Luto para largar jogos e focar no meu futuro haha
 
